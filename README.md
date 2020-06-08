@@ -1,4 +1,19 @@
 # lab-05
+This is a responsiver portoflio to show off projects I have made along with information about myself that employers might like to see. 
+
+
+Number and name of feature: #1 Deployment
+
+Estimate of time needed to complete: 2 hours
+
+Start time: 2:30pm
+
+Finish time:6:30pm
+
+Actual time needed to complete: 4 hours
+
+
+
 Dimension by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
